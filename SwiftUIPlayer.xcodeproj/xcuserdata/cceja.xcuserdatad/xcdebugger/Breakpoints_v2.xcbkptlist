@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A09F066A-3592-43AE-ACFC-164264DCF566"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C94A74E-A150-4945-B56B-077DABF8D541"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIPlayer/PlayerUI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "makeUIView(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41551130-4390-4DA5-AAE5-BCBDF3A75720"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIPlayer/PlayerUI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "playbackController(_:didAdvanceTo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41551130-4390-4DA5-AAE5-BCBDF3A75720 - ad712cd38b264108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUIPlayer.PlayerUI.Coordinator.playbackController(_: Swift.Optional&lt;__C.BCOVPlaybackController&gt;, didAdvanceTo: Swift.Optional&lt;__C.BCOVPlaybackSession&gt;) -&gt; ()"
+                  moduleName = "SwiftUIPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cceja/Downloads/SwiftUIPlayer/SwiftUIPlayer/PlayerUI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "41551130-4390-4DA5-AAE5-BCBDF3A75720 - ad712cd38b264108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUIPlayer.PlayerUI.Coordinator.playbackController(_: Swift.Optional&lt;__C.BCOVPlaybackController&gt;, didAdvanceTo: Swift.Optional&lt;__C.BCOVPlaybackSession&gt;) -&gt; ()"
+                  moduleName = "SwiftUIPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cceja/Downloads/SwiftUIPlayer/SwiftUIPlayer/PlayerUI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
